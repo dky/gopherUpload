@@ -1,5 +1,5 @@
 ### Basic app to test Google Storage + CloudSQL
 
-# Dependencies
+# External package Dependencies
 
 go get github.com/go-sql-driver/mysql
