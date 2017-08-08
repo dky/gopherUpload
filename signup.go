@@ -105,5 +105,5 @@ func main() {
 	http.HandleFunc("/signup", signupPage)
 	http.HandleFunc("/login", loginPage)
 	http.HandleFunc("/", homePage)
-	http.ListenAndServe(":80", nil)
+	http.ListenAndServe(":3000", nil)
 }
