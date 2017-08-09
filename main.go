@@ -83,7 +83,7 @@ func homePage(res http.ResponseWriter, req *http.Request) {
 }
 
 const (
-	DB_HOST = "tcp(104.196.160.98:3306)"
+	DB_HOST = "tcp(sql.750.io:3306)"
 	DB_NAME = "gopherUpload"
 	DB_USER = "root"
 	DB_PASS = "setup123!"
