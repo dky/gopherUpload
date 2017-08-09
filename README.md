@@ -10,6 +10,7 @@ Requires MySQL database + schema file
 
 ```
 go get github.com/go-sql-driver/mysql
+go get golang.org/x/crypto/bcrypt
 ```
 
 ## Building
